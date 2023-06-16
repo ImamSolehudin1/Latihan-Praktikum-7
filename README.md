@@ -1,7 +1,5 @@
 # Latihan-Praktikum-7
 
-# Latihan-Praktikum-6
-
 ## Nama : Imam Solehudin
 ## Nim : 312110290
 ## Kelas : TI.21.C.1
